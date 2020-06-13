@@ -1,0 +1,25 @@
+{
+  "name": "web-directory-project2",
+  "version": "1.0.0",
+  "description": "Directory with node js",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "keywords": [
+    "web",
+    "web",
+    "project",
+    "template",
+    "nodejs"
+  ],
+  "author": "LT",
+  "license": "ISC"
+}
